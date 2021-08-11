@@ -6,4 +6,4 @@ bot
 
 programming languages for this mini game
 
-* py
+* python
